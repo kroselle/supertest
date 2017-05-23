@@ -1,7 +1,7 @@
 {
-  "name": "supertest",
+  "name": "supertest-better-stack-trace",
   "version": "3.0.0",
-  "description": "SuperAgent driven library for testing HTTP servers",
+  "description": "SuperAgent driven library for testing HTTP servers. With better promise stack trace so you can actually debug",
   "main": "index.js",
   "scripts": {
     "pretest": "npm install",
@@ -39,6 +39,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/supertest.git"
+    "url": "https://github.com/kroselle/supertest.git"
   }
 }
